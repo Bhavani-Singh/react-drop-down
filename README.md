@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Dropdown
+A simple dropdown component using React.
+
+## Features
+- Click to show dropdown menu
+- Select an option/Click again to close the dropdown
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
